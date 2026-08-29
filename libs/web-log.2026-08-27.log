@@ -1,0 +1,2 @@
+2026-08-27 15:41:36 - __main__ - ERROR: 机械臂连接失败: Failed to open CAN bus (interface='agx_cando', channel='0', bitrate=1000000).
+2026-08-27 15:46:11 - __main__ - ERROR: 机械臂连接失败: Failed to open CAN bus (interface='agx_cando', channel='0', bitrate=1000000).

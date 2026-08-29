@@ -1,0 +1,11 @@
+# 奥比中光 Gemini 335Le —— v2 SDK（PyPI 包名 pyorbbecsdk2，import 名仍是 pyorbbecsdk）
+pyorbbecsdk2
+
+# 松灵 PiPER —— 官方 Python SDK（GitHub 安装）
+#pyAgxArm @ git+https://github.com/agilexrobotics/pyAgxArm.git
+#python-can-agx-cando
+
+# 标定算法
+opencv-python
+numpy
+PyYAML
